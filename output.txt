@@ -1,0 +1,44 @@
+interview analysics:
+
+output 1:
+As an assistant, my primary goal is to help and assist in the job hiring process by providing analytics that show which candidate is a good fit for a given job. To do this, I will analyze the interview conversation provided and provide information on the following:
+1. Confidence of the candidate: Based on the interview conversation, I can assess the confidence level of the candidate. For example, if the candidate is able to answer questions accurately and with ease, it suggests that they are confident in their abilities. On the other hand, if the candidate hesitates or struggles to answer questions, it may indicate a lack of confidence.
+2. Accuracy of answers: I can evaluate the accuracy of the candidate's answers based on the information provided. For instance, if the candidate provides correct and relevant information in response to questions, it suggests that they have a good understanding of the topic. However, if the candidate's answers are incorrect or lacking in detail, it may indicate a lack of knowledge or understanding.
+3. Relevance of skills: I can assess the relevance of the candidate's skills to the job requirements based on the interview conversation. For example, if the candidate is able to speak about Generative AI and its applications, it suggests that they have the necessary skills for the job. However, if the candidate struggles to answer questions related to the field, it may indicate a lack of relevant skills.
+4. Salary expectations: Based on the interview conversation, I can provide information on the salary expectations for roles and positions in the field. For instance, if the candidate mentions that they can expect around 15-30 LP (lakh per annum) in big metro cities like Bangalore and Hyderabad, it suggests that they have a good understanding of the industry standards.
+Using these analytics, I can provide a comprehensive assessment of the candidate's fit for the job, highlighting their strengths and weaknesses. This information can be used by the hiring manager to make an informed decision about whether to move forward with the candidate or not.
+
+output 2:
+As an assistant, my primary goal is to help and assist in the job hiring process by providing analytics that show which candidate is a good fit for a given job. To do this, I will analyze the interview conversation provided and provide information on various aspects of the candidate's performance.
+Based on the interview conversation provided, here are some key insights:
+1. Confidence level: The candidate appears to be quite confident in their knowledge of Generative AI, as they are able to explain it clearly and provide examples of its applications. This suggests that they have a good understanding of the topic and are comfortable discussing it.
+2. Accuracy of answers: The candidate's answers seem to be accurate and well-informed. They are able to provide specific examples of tools like ChatGPT, Llama, and Gemini, and explain how Generative AI works. This suggests that they have done their research and are knowledgeable in the field.
+3. Interest in the field: The candidate expresses enthusiasm for the field of Generative AI, which is a positive trait as it shows they are passionate about the work they do. This could translate to increased motivation and dedication to their job.
+4. Expectations for salary: The candidate mentions that in big metro cities like Bangalore and Hyderabad, one can expect around 15 to 30 LP (lakh per annum) in certain fields like AI, Chatbot, and Engineer. This suggests that they have a good understanding of the industry standards and are realistic about their salary expectations.
+Based on these insights, it seems that the candidate is well-informed, confident, and enthusiastic about the field of Generative AI. They also appear to have a good understanding of industry standards and salary expectations, which could make them a strong fit for the job.
+To provide a percentage of required skills possessed by the candidate, I would estimate that they possess around 80-90% of the required skills for the job. This is based on their demonstrated knowledge of Generative AI and their confidence in discussing the topic. However, it's important to note that the remaining 10-20% of skills may be acquired through experience or further training.
+
+
+resume analysics (RAG model):
+
+output 1 (comparing 2 resumes which is most suitable for dhiwise job roles fetching data from vector database) :
+Based on the information provided in the candidate profiles, I have analyzed and calculated the percentage of required skills that each candidate possesses for the Dhiwise AI job role. Here are the results:
+Candidate 1: Virendra Rathod
+* Required Skills: Experience in testing AI/ML platforms, knowledge of model training techniques, experience with cloud infrastructure testing, and proficiency in test automation tools and scripting languages.
+* Percentage of Required Skills Possessed: 70% (based on the skills listed in the job requirement)
+Candidate 2: Krati Chopra
+* Required Skills: Experience in web development, proficiency in programming languages such as Python, Java, and HTML/CSS, and experience with React JS and PHP.
+* Percentage of Required Skills Possessed: 85% (based on the skills listed in the job requirement)
+Based on these calculations, it appears that Krati Chopra is a better fit for the Dhiwise AI job role compared to Virendra Rathod. However, it's important to note that this analysis only considers the skills listed in the job requirement and does not take into account other qualifications or experiences that may be relevant for the position.
+
+output2 (comparing and summerizing the best candidate for dhiwise job by fetching data from vector database):
+Based on the job requirement and the information provided about the candidates, I would recommend Dipak Gaddam as the most suitable candidate for the AI/ML job at dhiwise. Here's why:
+1. Experience: Dipak has 5+ years of experience in software quality assurance, with a minimum of 2+ years focused on testing AI/ML platforms or GenAI models. This meets the requirement of having experience in testing AI/ML-driven applications.
+2. In-depth understanding: Dipak has an in-depth understanding of AI/ML testing frameworks and methodologies, including model validation, bias testing, and relevance assessment. This demonstrates his ability to understand the technical aspects of the job requirement.
+3. Hands-on experience: Dipak has hands-on experience testing AI/ML-based platforms, focusing on generated output quality, including accuracy, relevance, and user satisfaction. This shows that he can apply his knowledge in practical situations.
+4. Proficiency in test automation tools: Dipak is proficient in test automation tools such as Selenium, Appium, JUnit, which are commonly used in AI/ML testing.
+5. Problem-solving skills: Dipak has demonstrated problem-solving skills through his participation in hackathons and startups. This shows that he can think critically and come up with innovative solutions to complex problems.
+6. Leadership experience: Dipak has experience as a class representative, NSS volunteer, and coordinator of college events. This demonstrates his ability to lead and manage teams.
+7. Adaptability: Dipak has shown adaptability by starting his first startup at the age of 17 and working part-time as an AI developer. This demonstrates his ability to adapt to new situations and technologies.
+
+based on these factors, I would recommend Dipak Gaddam as the most suitable candidate for the AI/ML job at dhiwise.

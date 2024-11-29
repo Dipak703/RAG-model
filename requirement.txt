@@ -1,0 +1,5 @@
+cromadb
+langchain
+llama_index
+ollama : llama2 7B Q4 model
+assemblyai
